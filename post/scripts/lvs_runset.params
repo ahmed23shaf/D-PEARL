@@ -1,0 +1,42 @@
+*lvsRulesFile: /ece498hk/libs/TSMC65GP_RFMIM__1P0V_2P5V__1p9m_6X1Z1U_ALRDL/Calibre/lvs/calibre.lvs
+*lvsRulesFileLastLoad: 1365743064
+*lvsRunDir: /home/zaizhou3/example/post/lvs
+*lvsLayoutPaths: example_sram.calibre.db
+*lvsLayoutPrimary: example_sram
+*lvsLayoutLibrary: example_sram
+*lvsLayoutView: layout
+*lvsLayoutGetFromViewer: 1
+*lvsSourcePath: out.example_sram.src.net
+*lvsSourcePrimary: example_sram
+*lvsSourceLibrary: example_sram
+*lvsSourceView: schematic
+*lvsSpiceFile: example_sram.sp
+*lvsLayoutDeviceFilterOptions: ZB ZC ZD RB RD RF
+*lvsSourceDeviceFilterOptions: ZB ZC ZD RB RD RF
+*lvsPowerNames: vdd VDD VDDCE VDDPE
+*lvsGroundNames: vss VSS VSSE
+*lvsReduceSplitGates: 0
+*lvsERCDatabase: example_sram.erc.results
+*lvsERCSummaryFile: example_sram.erc.summary
+*lvsIncludeCmdsType: SVRF
+*lvsSVRFCmds: {LVS FILTER C(CP) open } {LVS Preserve Floating Top Nets YES} {LVS SPICE ALLOW FLOATING PINS YES} {PEX EXTRACT FLOATING NETS ALL} {LAYOUT CASE YES} {SOURCE CASE YES} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {}
+*lvsReportFile: example_sram.lvs.report
+*lvsMaskDBFile: rcfll_fracntco_0_chiptop_build.maskdb
+*lvsReportMaximumCount: 1000
+*lvsReportOptions: S
+*lvsAbortOnSupplyError: 0
+*lvsIsolateShorts: 1
+*cmnWarnLayoutOverwrite: 0
+*cmnWarnSourceOverwrite: 0
+*cmnShowOptions: 1
+*cmnVConnectReport: 1
+*cmnVConnectNamesState: ALL
+*cmnVConnectNames: VDD VSS
+*cmnRunMT: 1
+*cmnSlaveHosts: {use {}} {hostName {}} {cpuCount {}} {a32a64 {}} {rsh {}} {maxMem {}} {workingDir {}} {layerDir {}} {mgcLibPath {}} {launchName {}}
+*cmnLSFSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*cmnGridSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*cmnFDILayoutLibrary: example_sram
+*cmnFDILayoutView: layout
+*cmnFDIDEFLayoutPath: example_sram.def
+*cmnIncludeRulesFilesAfterMain: 1

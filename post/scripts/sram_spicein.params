@@ -1,0 +1,14 @@
+spiceInParams = list(nil
+	'conn2schArgs	"+PLACE_ONLY "
+	'conn2schParamFile	"/home/zaizhou3/example/post/scripts/sram_spicein_schopts.params"
+	'language	"CDL"
+	'netlistFile	"/home/zaizhou3/example/ip/example_sram/example_sram.cdl"
+	'masterCellForGnd	"VSSE"
+	'mergeBusBits	"yes"
+	'busDelimiter	"squarebracket"
+	'outputLib	"example_sram"
+	'refLibList	"tsmcN65"
+	'outputViewName	"schematic"
+	'devMapFile	"/home/zaizhou3/example/post/scripts/devicemap.txt"
+	'overwriteCells	"all"
+)

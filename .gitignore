@@ -1,0 +1,33 @@
+rtl/sim
+rtl/verdi
+rtl/bin/*.out
+rtl/bin/*.bin
+syn/command.log
+syn/default.svf
+syn/work
+syn/reports
+syn/synout
+
+pnr/*
+## COMMENTED OUT TEMPORARILY TO AVOID 100 MB LIMIT, CHANGE LATER {Aug 06}
+# pnr/.cadence
+# pnr/.viaViol.*
+# pnr/.nfs*
+# pnr/*.cmd*
+# pnr/*.log*
+# pnr/*.rpt*
+# pnr/AAE_sensitivity.file
+# pnr/rc_model.bin
+# pnr/pnrout
+# pnr/timingReports
+# pnr/logs
+# pnr/saves
+# pnr/VoltusPowerAnalysisResults
+
+post/.cadence
+post/*.log
+post/drc
+post/lvs
+post/lvsrpt.wrn
+post/*.cdslck
+post/.nfs*

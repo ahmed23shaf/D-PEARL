@@ -1,0 +1,2 @@
+2025/07/31 19:14:58 WARNING The glibc version of this host does not appear to be a Cadence supported version.
+2025/07/31 19:14:58 For more info, please run CheckSysConf in <cdsRoot/tools.lnx86/bin/checkSysConf <productId>

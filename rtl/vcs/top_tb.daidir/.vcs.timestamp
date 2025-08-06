@@ -1,0 +1,167 @@
+0
+43
++itf+/software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/lib/vcsdp_lite.tab
++notimingcheck
++vcsd1
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/software/synopsys-2024-06/app/vcs/V-2023.12-SP2/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/lib/libvirsim.so /software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/lib/liberrorinf.so /software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/lib/libsnpsmalloc.so /software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/lib/libvfs.so
+-Mout=top_tb
+-Msaverestoreobj=/software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/software/synopsys-2024-06/app/verdi/V-2023.12-SP2/share/PLI/VCS/LINUX64/pli.a -ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/software/synopsys-2024-06/app/vcs/V-2023.12-SP2/include
+-Mxllcflags=
+-P
+-Xufe=2steps
+-debug_acc+all
+-debug_access
+-fsdb
+-full64
+-gen_obj
+-kdb
+-l
+-lca
+-o top_tb
+-picarchive
+-suppress=LCA_FEATURES_ENABLED
+-sverilog
+-timescale=1ps/1ps
+/software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/bin/vcs1
+top_compile.log
+top_tb
+/software/synopsys-2024-06/app/verdi/V-2023.12-SP2/share/PLI/VCS/LINUX64/verdi.tab
+/groups/ece427-group4/D-PEARL/rtl/hvl/top_tb.sv
+/groups/ece427-group4/D-PEARL/rtl/hvl/example_sram.v
+/groups/ece427-group4/D-PEARL/rtl/hdl/top.sv
+105
+which_declare=declare -f
+apath=/usr/bin/evince
+acroread_path=/usr/bin/evince
+__LMOD_STACK_apath=L3Vzci9iaW4vZXZpbmNl
+__LMOD_STACK_acroread_path=L3Vzci9iaW4vZXZpbmNl
+__LMOD_STACK_VERDI_HOME=L3NvZnR3YXJlL3N5bm9wc3lzLTIwMjQtMDYvYXBwL3ZlcmRpL1YtMjAyMy4xMi1TUDI=
+__LMOD_STACK_VCS_HOME=L3NvZnR3YXJlL3N5bm9wc3lzLTIwMjQtMDYvYXBwL3Zjcy9WLTIwMjMuMTItU1Ay
+__LMOD_STACK_SYNOPSYS_LC_ROOT=L3NvZnR3YXJlL3N5bm9wc3lzLTIwMjQtMDYvYXBwL2xjL1YtMjAyMy4xMi1TUDU=
+__LMOD_STACK_MGC_HOME=L3NvZnR3YXJlL2NhbGlicmUtYW9rXzIwMjQuMV8yOC4xNi9hb2tfY2FsXzIwMjQuMV8yOC4xNg==
+__LMOD_STACK_CALIBRE_HOME=L3NvZnR3YXJlL2NhbGlicmUtYW9rXzIwMjQuMV8yOC4xNi9hb2tfY2FsXzIwMjQuMV8yOC4xNg==
+__LMOD_REF_COUNT_SALT_LICENSE_SERVER=1717@mentor.webstore.illinois.edu:1
+__LMOD_REF_COUNT_PATH=/software/synopsys-2024-06/app/vui/V-2023.12-SP5/bin:1;/software/synopsys-2024-06/app/vtran/V-2023.12-SP5/bin:1;/software/synopsys-2024-06/app/vgen/V-2023.12-SP5/bin:1;/software/synopsys-2024-06/app/verdi/V-2023.12-SP2/bin:1;/software/synopsys-2024-06/app/vcs/V-2023.12-SP2/bin:1;/software/synopsys-2024-06/app/vcap/V-2023.12-SP5/bin:1;/software/synopsys-2024-06/app/syn/V-2023.12-SP5/bin:1;/software/synopsys-2024-06/app/primeclosure/V-2023.12-SP5/bin:1;/software/synopsys-2024-06/app/prime/V-2023.12-SP5/bin:1;/software/synopsys-2024-06/app/lc/V-2023.12-SP5/bin:1;/software/synopsys-2024-06/app/dftview/V-2023.12-SP5/bin:1;/software/synopsys-2024-06/app/coretools/V-2024.06/bin:1;/software/calibre-aok_2024.1_28.16/aok_cal_2024.1_28.16/bin:1;/software/cadence-2023-05/XCELIUM2303/tools.lnx86/bin:1;/software/cadence-2023-05/XCELIUM2303/share/bin:1;/software/cadence-2023-05/XCELIUM2303/bin:1;/software/cadence-2023-05/WXE2303/tools/bin:1;/software/cadence-2023-05/WXE2303/share/uxe/bin:1;/software/cadence-2023-05/WXE2303/bin:1;/software/cadence-2023-05/ULTRASIM181/tools.lnx86/bin:1;/software/cadence-2023-05/ULTRASIM181/share/bin:1;/software/cadence-2023-05/ULTRASIM181/bin:1;/software/cadence-2023-05/STRATUS2202/tools.lnx86/bin:1;/software/cadence-2023-05/STRATUS2202/share/bin:1;/software/cadence-2023-05/STRATUS2202/bin:1;/software/cadence-2023-05/SSV221/tools.lnx86/bin:1;/software/cadence-2023-05/SSV221/share/bin:1;/software/cadence-2023-05/SSV221/bin:1;/software/cadence-2023-05/SPECTRE211/tools.lnx86/bin:1;/software/cadence-2023-05/SPECTRE211/share/bin:1;/software/cadence-2023-05/SPECTRE211/bin:1;/software/cadence-2023-05/SPB221/tools.lnx86/bin:1;/software/cadence-2023-05/SPB221/share/bin:1;/software/cadence-2023-05/SPB221/bin:1;/software/cadence-2023-05/SIGRITY20231/tools.lnx86/bin:1;/software/cadence-2023-05/SIGRITY20231/share/bin:1;/software/cadence-2023-05/SIGRITY20231/bin:1;/software/cadence-2023-05/QUANTUS221/tools.lnx86/bin:1;/software/cadence-2023-05/QUANTUS221/share/bin:1;/software/cadence-2023-05/QUANTUS221/bin:1;/software/cadence-2023-05/PVS222/tools.lnx86/bin:1;/software/cadence-2023-05/PVS222/share/bin:1;/software/cadence-2023-05/PVS222/bin:1;/software/cadence-2023-05/PEGASUS222/tools.lnx86/bin:1;/software/cadence-2023-05/PEGASUS222/share/bin:1;/software/cadence-2023-05/PEGASUS222/bin:1;/software/cadence-2023-05/MVS211/tools.lnx86/bin:1;/software/cadence-2023-05/MVS211/bin:1;/software/cadence-2023-05/MODUS221/tools.lnx86/bin:1;/software/cadence-2023-05/MODUS221/share/bin:1;/software/cadence-2023-05/MODUS221/bin:1;/software/cadence-2023-05/LIBERATE217/tools.lnx86/bin:1;/software/cadence-2023-05/LIBERATE217/share/bin:1;/software/cadence-2023-05/LIBERATE217/bin:1;/software/cadence-2023-05/JLS211/tools.lnx86/bin:1;/software/cadence-2023-05/JLS211/share/bin:1;/software/cadence-2023-05/JLS211/bin:1;/software/cadence-2023-05/INTEGRAND63/ParaView-5.7.0-MPI-Linux-Python3.7-64bit/bin:1;/software/cadence-2023-05/INTEGRAND63/tools.lnx86/bin:1;/software/cadence-2023-05/INTEGRAND63/bin:1;/software/cadence-2023-05/INNOVUS211/tools.lnx86/bin:1;/software/cadence-2023-05/INNOVUS211/share/bin:1;/software/cadence-2023-05/INNOVUS211/bin:1;/software/cadence-2023-05/INCISIVE152/tools.lnx86/bin:1;/software/cadence-2023-05/INCISIVE152/share/bin:1;/software/cadence-2023-05/INCISIVE152/bin:1;/software/cadence-2023-05/ICADVM201/tools.lnx86/bin:1;/software/cadence-2023-05/ICADVM201/share/bin:1;/software/cadence-2023-05/ICADVM201/bin:1;/software/cadence-2023-05/IC618/tools.lnx86/leapfrog/bin:1;/software/cadence-2023-05/IC618/tools.lnx86/dfII/bin:1;/software/cadence-2023-05/IC618/tools.lnx86/bin:1;/software/cadence-2023-05/IC618/share/bin:1;/software/cadence-2023-05/IC618/bin:1;/software/cadence-2023-05/GENUS211/tools.lnx86/bin:1;/software/cadence-2023-05/GENUS211/share/bin:1;/software/cadence-2023-05/GENUS211/bin:1;/software/cadence-2023-05/CONFRML231/tools.lnx86/bin:1;/software/cadence-2023-05/CONFRML231/share/bin:1;/software/cadence-2023-05/CONFRML231/bin:1;/software/cadence-2023-05/CADENCEHELP/tools.lnx86/bin:1;/software/cadence-2023-05/CADENCEHELP/bin:1;/software/cadence-2023-05/CADENCEHELP/share/cdnshelp/bin:1;/software/cadence-2023-05/CADENCEHELP/share/bin:1;/software/cadence-2023-05/ASSURA41/tools.lnx86/bin:1;/software/cadence-2023-05/ASSURA41/share/bin:1;/software/cadence-2023-05/ASSURA41/bin:1;/home/acruz86/.vscode-server/cli/servers/Stable-488a1f239235055e34e673291fb8d8c810886f81/server/bin/remote-cli:1;/home/acruz86/.local/bin:1;/home/acruz86/bin:1;/usr/local/bin:1;/usr/bin:1;/usr/local/sbin:1;/usr/sbin:1
+__LMOD_REF_COUNT_MODULEPATH=/usr/share/modulefiles:1;/usr/share/Modules/modulefiles:1;/usr/share/modulefiles/Linux:1;/usr/share/modulefiles/Core:1;/usr/share/lmod/lmod/modulefiles/Core:1;/etc/modulefiles/env:1;/etc/modulefiles/class:1;/etc/modulefiles/software:1
+__LMOD_REF_COUNT_LM_LICENSE_FILE=27005@synopsys.webstore.illinois.edu:1;1717@mentor.webstore.illinois.edu:2;5280@cadence.webstore.illinois.edu:2
+__LMOD_REF_COUNT_LD_LIBRARY_PATH=/software/cadence-2023-05/XCELIUM2303/tools.lnx86/lib:1;/software/cadence-2023-05/WXE2303/tools/lib:1;/software/cadence-2023-05/ULTRASIM181/tools.lnx86/lib:1;/software/cadence-2023-05/STRATUS2202/tools.lnx86/lib:1;/software/cadence-2023-05/SSV221/tools.lnx86/lib:1;/software/cadence-2023-05/SPECTRE211/tools.lnx86/lib:1;/software/cadence-2023-05/SPB221/tools.lnx86/lib:1;/software/cadence-2023-05/SIGRITY20231/tools.lnx86/lib:1;/software/cadence-2023-05/QUANTUS221/tools.lnx86/lib:1;/software/cadence-2023-05/PVS222/tools.lnx86/lib:1;/software/cadence-2023-05/PEGASUS222/tools.lnx86/lib:1;/software/cadence-2023-05/MVS211/tools.lnx86/lib:1;/software/cadence-2023-05/MODUS221/tools.lnx86/lib:1;/software/cadence-2023-05/LIBERATE217/tools.lnx86/lib:1;/software/cadence-2023-05/JLS211/tools.lnx86/lib:1;/software/cadence-2023-05/INTEGRAND63/ParaView-5.7.0-MPI-Linux-Python3.7-64bit/lib/python3.7/site-packages/numpy/lib:1;/software/cadence-2023-05/INNOVUS211/tools.lnx86/lib:1;/software/cadence-2023-05/INCISIVE152/vmanager/linux:1;/software/cadence-2023-05/INCISIVE152/tools.lnx86/lib:1;/software/cadence-2023-05/ICADVM201/tools.lnx86/lib:1;/software/cadence-2023-05/GENUS211/tools.lnx86/lib:1;/software/cadence-2023-05/CONFRML231/tools.lnx86/lib:1;/software/cadence-2023-05/CADENCEHELP/tools.lnx86/lib:1;/software/cadence-2023-05/ASSURA41/tools.lnx86/lib:1
+_ModuleTable_Sz_=4
+_ModuleTable004_=ZHVsZWZpbGVzOi91c3Ivc2hhcmUvTW9kdWxlcy9tb2R1bGVmaWxlczovdXNyL3NoYXJlL21vZHVsZWZpbGVzL0xpbnV4Oi91c3Ivc2hhcmUvbW9kdWxlZmlsZXMvQ29yZTovdXNyL3NoYXJlL2xtb2QvbG1vZC9tb2R1bGVmaWxlcy9Db3JlOi9ldGMvbW9kdWxlZmlsZXMvZW52Oi9ldGMvbW9kdWxlZmlsZXMvY2xhc3M6L2V0Yy9tb2R1bGVmaWxlcy9zb2Z0d2FyZSIsCn0K
+_ModuleTable003_=PSAiYWN0aXZlIiwKdXNlck5hbWUgPSAic3lub3BzeXMvMjAyNC0wNiIsCndWID0gIjAwMDAwMjAyNC4qemZpbmFsLS4wMDAwMDAwMDYuKnpmaW5hbCIsCn0sCn0sCm1wYXRoQSA9IHsKIi91c3Ivc2hhcmUvbW9kdWxlZmlsZXMiLCAiL3Vzci9zaGFyZS9Nb2R1bGVzL21vZHVsZWZpbGVzIiwgIi91c3Ivc2hhcmUvbW9kdWxlZmlsZXMvTGludXgiLCAiL3Vzci9zaGFyZS9tb2R1bGVmaWxlcy9Db3JlIiwgIi91c3Ivc2hhcmUvbG1vZC9sbW9kL21vZHVsZWZpbGVzL0NvcmUiCiwgIi9ldGMvbW9kdWxlZmlsZXMvZW52IiwgIi9ldGMvbW9kdWxlZmlsZXMvY2xhc3MiLCAiL2V0Yy9tb2R1bGVmaWxlcy9zb2Z0d2FyZSIsCn0sCnN5c3RlbUJhc2VNUEFUSCA9ICIvdXNyL3NoYXJlL21v
+_ModuleTable002_=cy9zb2Z0d2FyZS9jYWxpYnJlL2Fva18yMDI0LjFfMjguMTYubHVhIiwKZnVsbE5hbWUgPSAiY2FsaWJyZS9hb2tfMjAyNC4xXzI4LjE2IiwKbG9hZE9yZGVyID0gMiwKcHJvcFQgPSB7fSwKc3RhY2tEZXB0aCA9IDAsCnN0YXR1cyA9ICJhY3RpdmUiLAp1c2VyTmFtZSA9ICJjYWxpYnJlIiwKd1YgPSAiKmFvay4qXy4wMDAwMDIwMjQuMDAwMDAwMDAxLipfLjAwMDAwMDAyOC4wMDAwMDAwMTYuKnpmaW5hbCIsCn0sCnN5bm9wc3lzID0gewpmbiA9ICIvZXRjL21vZHVsZWZpbGVzL3NvZnR3YXJlL3N5bm9wc3lzLzIwMjQtMDYubHVhIiwKZnVsbE5hbWUgPSAic3lub3BzeXMvMjAyNC0wNiIsCmxvYWRPcmRlciA9IDMsCnByb3BUID0ge30sCnN0YWNrRGVwdGggPSAwLApzdGF0dXMg
+_ModuleTable001_=X01vZHVsZVRhYmxlXyA9IHsKTVR2ZXJzaW9uID0gMywKY19yZWJ1aWxkVGltZSA9IDcyMDAuMCwKY19zaG9ydFRpbWUgPSAwLjAxMTg1MDgzMzg5MjgyMiwKZGVwdGhUID0ge30sCmZhbWlseSA9IHt9LAptVCA9IHsKY2FkZW5jZSA9IHsKZm4gPSAiL2V0Yy9tb2R1bGVmaWxlcy9zb2Z0d2FyZS9jYWRlbmNlLzIwMjMtMDUubHVhIiwKZnVsbE5hbWUgPSAiY2FkZW5jZS8yMDIzLTA1IiwKbG9hZE9yZGVyID0gMSwKcHJvcFQgPSB7fSwKc3RhY2tEZXB0aCA9IDAsCnN0YXR1cyA9ICJhY3RpdmUiLAp1c2VyTmFtZSA9ICJjYWRlbmNlIiwKd1YgPSAiMDAwMDAyMDIzLip6ZmluYWwtLjAwMDAwMDAwNS4qemZpbmFsIiwKfSwKY2FsaWJyZSA9IHsKZm4gPSAiL2V0Yy9tb2R1bGVmaWxl
+_LMFILES_=/etc/modulefiles/software/cadence/2023-05.lua:/etc/modulefiles/software/calibre/aok_2024.1_28.16.lua:/etc/modulefiles/software/synopsys/2024-06.lua
+XDG_SESSION_ID=550
+XDG_RUNTIME_DIR=/run/user/1182070
+XDG_DATA_DIRS=/home/acruz86/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+VSCODE_IPC_HOOK_CLI=/run/user/1182070/vscode-ipc-f956f3fd-267d-475d-b709-330e9e3fdb6f.sock
+VSCODE_GIT_IPC_HANDLE=/run/user/1182070/vscode-git-becd018c6b.sock
+VSCODE_GIT_ASKPASS_NODE=/home/acruz86/.vscode-server/cli/servers/Stable-488a1f239235055e34e673291fb8d8c810886f81/server/node
+VSCODE_GIT_ASKPASS_MAIN=/home/acruz86/.vscode-server/cli/servers/Stable-488a1f239235055e34e673291fb8d8c810886f81/server/extensions/git/dist/askpass-main.js
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+VMR_MODE_FLAG=64
+VERDI_HOME=/software/synopsys-2024-06/app/verdi/V-2023.12-SP2
+VCS_PYTHON3=/software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/bin/Python-3.6.1/bin/python3
+VCS_PATHMAP_PRELOAD_DONE=1
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_LOG_FILE=top_compile.log
+VCS_LCAMSG_PRINT_OFF=1
+VCS_HOME=/software/synopsys-2024-06/app/vcs/V-2023.12-SP2
+VCS_EXEC_DONE=1
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH_OVERRIDE=linux
+VCS_ARCH=linux64
+UNAME=/bin/uname
+TSMC65RF_PDK_IC6=/ece498hk/libs/T65GP_RFMIM_2fF_1P0V_2P5V_1p9m_6X1Z1U_ALRDL_OA61_PDK
+TOOL_HOME=/software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64
+TERM_PROGRAM_VERSION=1.102.3
+TERM_PROGRAM=vscode
+SYNOPSYS_LC_ROOT=/software/synopsys-2024-06/app/lc/V-2023.12-SP5
+SSL_CERT_FILE=/etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem
+SSL_CERT_DIR=/etc/pki/tls/certs
+SSH_CONNECTION=10.251.134.225 56407 172.22.230.53 22
+SSH_CLIENT=10.251.134.225 56407 22
+SSH_AUTH_SOCK=/run/user/1182070/vscode-ssh-auth-sock-44538213
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SOFTPATH=/software
+SNPS_VERDI_INTERNAL_LP_XML_NEW_FLOW=1
+SNPS_VCS_PYTHON3=/software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/bin/Python-3.6.1/bin/python3
+SNPS_VCS_CLANG_PATH=/software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/clang
+SNPS_INTERNAL_VCS_LINUX_OS=linux
+SIGRITY_EDA_DIR=/software/cadence-2023-05/SIGRITY20231
+SIGRITYPATH=tools/bin
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+SALT_LICENSE_SERVER=1717@mentor.webstore.illinois.edu
+OVA_UUM=0
+MODULESHOME=/usr/share/lmod/lmod
+MODULEPATH_ROOT=/usr/share/modulefiles
+MODULEPATH=/usr/share/modulefiles:/usr/share/Modules/modulefiles:/usr/share/modulefiles/Linux:/usr/share/modulefiles/Core:/usr/share/lmod/lmod/modulefiles/Core:/etc/modulefiles/env:/etc/modulefiles/class:/etc/modulefiles/software
+MGC_HOME=/software/calibre-aok_2024.1_28.16/aok_cal_2024.1_28.16
+MFLAGS=
+MAKE_TERMOUT=/dev/pts/26
+MAKE_TERMERR=/dev/pts/26
+MAKELEVEL=1
+MAKEFLAGS=
+LOADEDMODULES=cadence/2023-05:calibre/aok_2024.1_28.16:synopsys/2024-06
+LMOD_sys=Linux
+LMOD_arch=x86_64
+LMOD_VERSION=8.7.53
+LMOD_SETTARG_FULL_SUPPORT=no
+LMOD_ROOT=/usr/share/lmod
+LMOD_PKG=/usr/share/lmod/lmod
+LMOD_DIR=/usr/share/lmod/lmod/libexec
+LMOD_CMD=/usr/share/lmod/lmod/libexec/lmod
+LMODARCH=x86_64
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+HISTCONTROL=ignoredups
+GIT_ASKPASS=/home/acruz86/.vscode-server/cli/servers/Stable-488a1f239235055e34e673291fb8d8c810886f81/server/extensions/git/dist/askpass.sh
+GDK_BACKEND=x11
+FPATH=/usr/share/lmod/lmod/init/ksh_funcs
+DISTARCH=Linux-x86_64
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-RPoWe08GFE,guid=6b86e56c307a78bdae4a488f68910d73
+COLORTERM=truecolor
+CALIBRE_HOME=/software/calibre-aok_2024.1_28.16/aok_cal_2024.1_28.16
+CADENCE_CURR_IUS=/software/cadence-2023-05/INCISIVE152
+CADENCE_CURR_IC=/software/cadence-2023-05/IC618
+CADENCE_CURR=/software/cadence-2023-05
+BASH_FUNC_which%%=() {  ( alias;_ eval ${which_declare} ) | /usr/bin/which --tty-only --read-alias --read-functions --show-tilde --show-dot $@_}
+BASH_FUNC_module%%=() {  if [ -z "${LMOD_SH_DBG_ON+x}" ]; then_ case "$-" in _ *v*x*)_ __lmod_sh_dbg='vx'_ ;;_ *v*)_ __lmod_sh_dbg='v'_ ;;_ *x*)_ __lmod_sh_dbg='x'_ ;;_ esac;_ fi;_ if [ -n "${__lmod_sh_dbg:-}" ]; then_ set +$__lmod_sh_dbg;_ echo "Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for Lmod's output" 1>&2;_ fi;_ eval "$($LMOD_CMD shell "$@")" && eval "$(${LMOD_SETTARG_CMD:-:} -s sh)";_ __lmod_my_status=$?;_ if [ -n "${__lmod_sh_dbg:-}" ]; then_ echo "Shell debugging restarted" 1>&2;_ set -$__lmod_sh_dbg;_ fi;_ unset __lmod_sh_dbg;_ return $__lmod_my_status_}
+BASH_FUNC_ml%%=() {  eval "$($LMOD_DIR/ml_cmd "$@")"_}
+BASH_ENV=/usr/share/lmod/lmod/init/bash
+0
+0
+5
+1754004453 /groups/ece427-group4/D-PEARL/rtl/hdl/top.sv
+1754339395 /groups/ece427-group4/D-PEARL/rtl/hvl/example_sram.v
+1754339395 ../../ip/example_sram/example_sram.v
+1754004453 /groups/ece427-group4/D-PEARL/rtl/hvl/top_tb.sv
+1716718493 /software/synopsys-2024-06/app/verdi/V-2023.12-SP2/share/PLI/VCS/LINUX64/verdi.tab
+1717384209 /software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/lib/vcsdp_lite.tab
+4
+1717385583 /software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/lib/libvirsim.so
+1717384763 /software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/lib/liberrorinf.so
+1717384706 /software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/lib/libsnpsmalloc.so
+1717384758 /software/synopsys-2024-06/app/vcs/V-2023.12-SP2/linux64/lib/libvfs.so
+1754339703 top_tb.daidir
+-1 partitionlib

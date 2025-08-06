@@ -1,0 +1,1 @@
+../../ip/example_sram/example_sram.v

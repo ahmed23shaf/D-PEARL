@@ -1,0 +1,10 @@
+{"vcs1":{"timestamp_begin":1754339596.650393468, "rt":54.27, "ut":0.39, "st":0.45}}
+{"vcselab":{"timestamp_begin":1754339654.482337630, "rt":18.05, "ut":0.23, "st":0.15}}
+{"link":{"timestamp_begin":1754339675.689126702, "rt":13.77, "ut":0.16, "st":0.23}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1754339576.698208923}
+{"VCS_COMP_START_TIME": 1754339576.698208923}
+{"VCS_COMP_END_TIME": 1754339705.480818032}
+{"VCS_USER_OPTIONS": "/groups/ece427-group4/D-PEARL/rtl/hvl/top_tb.sv /groups/ece427-group4/D-PEARL/rtl/hvl/example_sram.v /groups/ece427-group4/D-PEARL/rtl/hdl/top.sv -full64 -lca -sverilog -timescale=1ps/1ps -debug_acc+all -kdb -debug_access -suppress=LCA_FEATURES_ENABLED -j4 +notimingcheck -l top_compile.log -o top_tb"}
+{"vcs1": {"peak_mem": 484732}}
+{"vcs1": {"peak_mem": 559992}}
+{"vcselab": {"peak_mem": 253064}}

@@ -1,0 +1,17 @@
+Command: /groups/ece427-group4/D-PEARL/rtl/vcs/./top_tb -l top_simulation.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version V-2023.12-SP2_Full64; Runtime version V-2023.12-SP2_Full64;  Aug  4 15:35 2025
+*Verdi* Loading libsscore_vcs202312.so
+FSDB Dumper for VCS, Release Verdi_V-2023.12-SP2, Linux x86_64/64bit, 05/26/2024
+(C) 1996 - 2024 by Synopsys, Inc.
+*Verdi* : Create FSDB file 'dump.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : Enable +all dumping.
+*Verdi* : End of traversing.
+$finish called from file "/groups/ece427-group4/D-PEARL/rtl/hvl/top_tb.sv", line 24.
+$finish at simulation time              1010000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1010000 ps
+CPU Time:      0.370 seconds;       Data structure size:   0.1Mb
+Mon Aug  4 15:35:31 2025

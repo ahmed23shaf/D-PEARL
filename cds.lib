@@ -1,0 +1,2 @@
+SOFTINCLUDE /software/cadence-2023-05/ICADVM201/share/cdssetup/cds.lib
+DEFINE test /groups/ece427-group4/D-PEARL/test
