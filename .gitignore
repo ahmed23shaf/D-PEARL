@@ -1,5 +1,6 @@
 rtl/sim
 rtl/verdi
+rtl/vcs
 rtl/bin/*.out
 rtl/bin/*.bin
 syn/command.log
